@@ -2,5 +2,5 @@
     <string name="app_name">MyQuickApplication</string>
     <string name="myname">My First App!!</string>
     <string name="mycheckbox">Option One</string>
-    <string name="myradioname">Turn Up</string>
+    <string name="myradioname">Turn Up!</string>
 </resources>
